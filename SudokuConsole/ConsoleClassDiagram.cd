@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SudokuConsole.Controller.CheckerConsole" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAEAAAAAAAACAAAAAAAAgAEAAIAAAQ=</HashCode>
+      <FileName>Controller\CheckerConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Base.Controller.Menu.Checker" Collapsed="true">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Base.Controller.Menu.About" Collapsed="true">
+    <Position X="2.25" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Base.Controller.Menu.NewGame" Collapsed="true">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Base.Controller.Menu.RecordsOutput" Collapsed="true">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SudokuConsole.Controller.ConsoleAbout" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Controller\ConsoleAbout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SudokuConsole.Controller.NewGameConsole" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JAAAAAQAAAAAAAAgBABAAAggAAAAAAAAAQAEAAgAAAE=</HashCode>
+      <FileName>Controller\NewGameConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SudokuConsole.Controller.RecordsOutputConsole" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Controller\RecordsOutputConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SudokuConsole.SudokuApplication" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEMAAQAAEAAAEBjJAAAABAAwBAASFQAABABKRCIAAAA=</HashCode>
+      <FileName>Controller\SudokuApplication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleView.FastOutput" Collapsed="true">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACACAACAAQAAAAQAAAAAABAAAAAAAAAAiAFAAAA=</HashCode>
+      <FileName>View\FastOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SudokuConsole.Controller.ClearConsole" Collapsed="true">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIAAAAAAAAABAAAAAAAAgABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\ClearConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

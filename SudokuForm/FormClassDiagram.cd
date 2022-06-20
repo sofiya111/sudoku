@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SudokuForm.Controller.CheckerForm" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgEAAAAAAAAAAAAAAAAAgABAAAAAAA=</HashCode>
+      <FileName>Controller\CheckerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SudokuForm.Controller.FormAbout" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Controller\FormAbout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SudokuForm.Controller.NewGameForm" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAAAAAAAAAAAAgAAAAAAAAQAAAAAQAAAQAAAAIAAAA=</HashCode>
+      <FileName>Controller\NewGameForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SudokuForm.Controller.RecordsOutputForm" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Controller\RecordsOutputForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SudokuForm.Program" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Controller\SudokuFormApplication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SudokuForm.View.ResultOutput" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAQAAAABAgAAAAAAAAABAAACAAAAA=</HashCode>
+      <FileName>View\ResultOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SudokuForm.InputNameForm" Collapsed="true">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAACAAIBAAAACAAAACAAAIAAAAAAAAAAAAACA=</HashCode>
+      <FileName>InputNameForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Base.Controller.Menu.About" Collapsed="true">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Base.Controller.Menu.NewGame" Collapsed="true">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Base.Controller.Menu.Checker" Collapsed="true">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Base.Controller.Menu.RecordsOutput" Collapsed="true">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SudokuForm.RecordsForm" Collapsed="true">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAAEgCAAACgAAAiAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>RecordsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SudokuForm.MainForm" Collapsed="true">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QACAAGAQASAEEgDBgACAVAECCYIAAAAIgAgAAhEEACQ=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
